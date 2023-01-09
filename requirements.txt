@@ -1,2 +1,2 @@
-telebot
+pip3 install PyTelegramBotAPI==2.2.3
 pytube
